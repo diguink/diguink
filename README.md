@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @diguink
+- 👀 I’m interested in front-end
+- 🌱 I’m currently learning html,css,js
+- 💞️ I’m looking to collaborate on new people in the program
+- 📫 How to reach me send me a message
