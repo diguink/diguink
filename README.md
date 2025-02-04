@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @diguink
-- 👀 I’m interested in front-end
-- 🌱 I’m currently learning html,css,js
-- 💞️ I’m looking to collaborate on new people in the program
-- 📫 How to reach me send me a message
+Olá, Meu nome é Diego de Oliveira
+
+Atualmente estudo e tenho como foco a programação back-end, onde diariamente estudo sobre, por exemplo: JS, HTML, CSS, .NET e SQL.
+
+Além dos estudos estou conciliando com a faculdade de Analise e Desenvolvimento de Sistemas que estou cursando o 1° Semestre
